@@ -2,7 +2,7 @@
 ![제목을-입력해주세요_-001 (1)](https://user-images.githubusercontent.com/83691399/158743846-fad2f6a2-63cd-411c-8374-ba337e6f52a9.png)
 Teachable Machine을 학습시켜 Node-RED로 불러오는 과정을 설명 드리겠습니다.
 
-[유튜브 링크] ()
+[유튜브 링크] (https://youtu.be/x1EDn_QqFNo)
 ## ESP32 Cam 소스 코드링크
 
 https://github.com/kdi6033/arduino/blob/master/1-40-1%20ESP32-CAM%20-%20AI%20tensorflow/Esp32Cam/Esp32Cam.ino
