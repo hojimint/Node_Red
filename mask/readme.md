@@ -13,6 +13,7 @@ ESP32 Arduino - AI Thinker ESP32-Cam
 우선 학습 시킬 사진을 여러장 모아줍니다. 예시는 많을수록좋습니다. 
 
 
+
 ## Node-Red
 ```   
 [
@@ -450,3 +451,7 @@ ESP32 Arduino - AI Thinker ESP32-Cam
     }
 ]
 ```   
+# Node-Red 사용 팔렛트
+- node-red-node-base64 base64로 변환 하는 것을 도와줍니다.
+- node-red-contrib-teachable-machine 텐서플로우 api를 불러오는것을 도와줍니다.
+- node-red-contrib-image-output 사진 미리보기를 할수있게 도와줍니다.
